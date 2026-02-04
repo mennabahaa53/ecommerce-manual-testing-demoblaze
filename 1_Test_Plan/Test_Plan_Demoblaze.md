@@ -19,7 +19,6 @@ The main objectives of testing are:
 - Product details page
 - Add to cart functionality
 - Cart management
-- Place order process
 
 ### Out of Scope
 - Payment gateway integration (real payments)
