@@ -14,10 +14,6 @@ System Under Test (SUT): https://demoblaze.com
 
 ---
 
-## Project Structure
-
----
-
 ## Scope of Testing
 
 ### In Scope
